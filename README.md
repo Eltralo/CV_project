@@ -43,6 +43,6 @@ streamlit run .\app.py
 
 [Примеры для запуска](https://drive.google.com/drive/folders/1Dlm17a-9n4bn9UoC3iq6pghwDotzrqTx?usp=sharing)
 
-![GIF](https://github.com/LazarevaL/AI_masters_project/blob/main/demo/1.gif?raw=true)
+![GIF]()
 
 
